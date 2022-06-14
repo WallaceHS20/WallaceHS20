@@ -1,5 +1,7 @@
 ### Olá ! Me chamo Honorato 😝🤞
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:wallacehonorato67@gmail.com")         [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace.honorato.98/) 
+<div>
+  <a href="mailto:wallacehonorato67@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wallacehonorato67@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace.honorato.98/) 
 
 ## Estatísticas
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=WallaceHS20&show_icons=true&theme=radical)
