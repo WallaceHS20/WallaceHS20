@@ -1,12 +1,10 @@
-## Hello World ! Me chamo Wallace Honorato 👨‍💻</br>
+# Hello World ! Me chamo Wallace Honorato 👨‍💻</br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/101594950/173713590-fca5005c-0c18-4d57-a421-1538a57f3410.gif" width="900" height="400" />
 </div>
 
-## Administrador de Banco de Dados em Evolução
-
-<div>
+## Administrador de Banco de Dados em Construção...
   <a href="https://www.instagram.com/wallace.honorato.98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wallacehonorato67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -23,11 +21,9 @@ Técnico em Análise e Desenvolvimento de sistemas 👨‍🎓💻 </br>
 Técnologo em Banco de Dados 🧑‍💻 (2/6) </br>
 Estágiario pela Fundação Cultural Cassiano Ricardo 🏚️</br>
 
-
 ## Estatísticas
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=WallaceHS20&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/WallaceHS20/WallaceHS20/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Tecnologias Conhecidas
 <div style="display: inline_block"><br/>
@@ -36,28 +32,21 @@ Estágiario pela Fundação Cultural Cassiano Ricardo 🏚️</br>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div> </br>
 
+## Contribuições
 
 <table border="1">
 <thead>
     <tr>
-        <th>Frutas</th>
-        <th>Verduras</th>
+        <th>Projetos<width="100"/th>
+        <th>Descrição</th>
     </tr>
 </thead>
 <tbody>
     <tr>
-        <td> <a href="https://www.instagram.com/wallace.honorato.98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></td>
-        <td>Alface</td>
-    </tr>
-    <tr>
-        <td>Laranja</td>
-        <td>Beterraba</td>
+        <td> <a href="https://www.instagram.com/wallace.honorato.98/" target="_blank"><img src="https://user-images.githubusercontent.com/101594950/173720182-1be62bbb-a684-41e7-9d27-28eae7359714.png" width="150" height="100" target="_blank"></a></td>
+        <td>A "OTUS PROJECT" é uma assistente virtual de voz integrada com interface gráfica e desenvolvida 100% em linguagem Python para programadores que estão iniciando no mundo da programação. </td>
     </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
-
-
-Read more: http://www.linhadecodigo.com.br/artigo/3439/introducao-ao-html-usando-tabelas-em-html.aspx#ixzz7WEzt2eTw
-Read more: http://www.linhadecodigo.com.br/artigo/3439/introducao-ao-html-usando-tabelas-em-html.aspx#ixzz7WEzJaAIT
