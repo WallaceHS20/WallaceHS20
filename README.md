@@ -1,7 +1,7 @@
 # Hello World ! Me chamo Wallace Honorato 👨‍💻</br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/101594950/173713590-fca5005c-0c18-4d57-a421-1538a57f3410.gif" width="900" height="400" />
+<img src="https://user-images.githubusercontent.com/101594950/173713590-fca5005c-0c18-4d57-a421-1538a57f3410.gif" width="800" height="400" />
 </div>
 
 ## Administrador de Banco de Dados em Construção...
