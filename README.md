@@ -19,7 +19,7 @@ Since 2002✨</br>
 Ex - Militar da área de comunicações 📡⚔️</br>
 Técnico em Análise e Desenvolvimento de sistemas 👨‍🎓💻 </br>
 Técnologo em Banco de Dados 🧑‍💻 (2/6) </br>
-Estágiario pela Fundação Cultural Cassiano Ricardo 🏚️</br>
+Estagiário pela Fundação Cultural Cassiano Ricardo 🏚️</br>
 
 ## Estatísticas
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=WallaceHS20&show_icons=true&theme=radical)
