@@ -18,7 +18,7 @@ São José dos Campos - Sp - Brasil 🏡</br>
 Since 2002✨</br>
 Ex - Militar da área de comunicações 📡⚔️</br>
 Técnico em Análise e Desenvolvimento de sistemas 👨‍🎓💻 </br>
-Técnologo em Banco de Dados 🧑‍💻 (2/6) </br>
+Técnologo em Banco de Dados 🧑‍💻 (3/6) </br>
 Estagiário pela Fundação Cultural Cassiano Ricardo 🏚️</br>
 
 ## Estatísticas
