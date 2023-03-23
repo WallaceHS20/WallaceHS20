@@ -102,3 +102,9 @@ Estagiário Front-End pela Fundação Cultural Cassiano Ricardo 🏚️</br>
 </tbody>
 <tfoot>
 </tfoot>
+</table>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WallaceHS20}/count.svg" /></p> 
+<br></div>  
