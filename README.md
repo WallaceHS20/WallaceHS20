@@ -86,7 +86,6 @@ Estagiário Front-End pela Fundação Cultural Cassiano Ricardo 🏚️</br>
     <tr>
        <td> <a href="https://github.com/B1naryDevs/API" target="_blank"><img src="https://user-images.githubusercontent.com/101594950/195669547-fe8151b8-c115-4ec9-8c4d-6c02185efb98.png" width="150" height="100" target="_blank"></a></td>
        <td>O +Emprego é um sistema Desktop que tem como objetivo realizar o gerenciamento e acompanhamento de processos seletivos de candidatos para vagas de emprego, sendo capaz também de realizar relatórios e análises de aprovação do setor de recursos humanos.</td>
-    </tr>
     <tr>
         <td> <a href="https://github.com/fatec-bd1sem/Otus" target="_blank"><img src="https://user-images.githubusercontent.com/101594950/173720182-1be62bbb-a684-41e7-9d27-28eae7359714.png" width="150" height="100" target="_blank"></a></td> 
         <td>A "OTUS PROJECT" é uma assistente virtual de voz integrada com interface gráfica e desenvolvida 100% em linguagem Python para programadores que estão iniciando no mundo da programação. </td>
