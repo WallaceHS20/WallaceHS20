@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=180&section=header&text=W.Honorato&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=W.Honorato&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wallace+Honorato+Da+Silva;I'm+21+years+old;I+from+Brasil,+SP;I+study+Database+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
-###
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WallaceHs20&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=8A2BE2&text_color=4B0082" alt="Wallace github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceHs20&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WallaceHs20&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=8A2BE2&text_color=ffff&bg_color=0d1117" alt="Wallace github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceHs20&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117"/>
 </div>
 
 ## Desenvolvedor em Construção...
