@@ -1,25 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=W.Honorato&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wallace+Honorato+Da+Silva+🧑‍💻;I'm+21+years+old+✨;I+from+Brasil,+São+José+Dos+Campos+🏡;I+study+Database+at+Fatec+👨‍🎓💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wallace+Honorato+Da+Silva+🧑‍💻;I'm+21+years+old+✨;I'm+from+Brasil,+São+José+Dos+Campos+:brazil:+🏡;I+study+Database+at+Fatec+👨‍🎓💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WallaceHS20&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WallaceHs20&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=8A2BE2&text_color=ffff&bg_color=0d1117" alt="Wallace github stats"/> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WallaceHs20&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=8A2BE2&text_color=ffff&bg_color=0d1117" alt="Wallace github stats"/> 
   
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceHs20&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117"/>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WallaceHS20&bg_color=0d1117&color=ffffff&line=9e4c98&point=a9a7a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WallaceHs20&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
 </p>
 
-## Developing...
-  <a href="https://www.instagram.com/wallace.honorato.98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wallacehonorato67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Talk with me :speaking_head:
+  <a href="https://www.instagram.com/wallace.honorato.98/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117)&nbsp;</a>
+  <a href = "mailto:wallacehonorato67@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)&nbsp;</a>
+  <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)&nbsp;</a> 
   
 </div>
 
@@ -29,7 +27,7 @@
 
 <div style="display: inline_block">
 
-### Banco de Dados
+### Database
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/><br>
   
