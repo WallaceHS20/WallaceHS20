@@ -10,6 +10,8 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceHs20&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117"/>
 </div>
 
+ ![Snake animation](https://github.com/WallaceHS20/WallaceHs20/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WallaceHs20&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
 </p>
@@ -34,7 +36,7 @@
 ### Programming Languages
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
   
 ### Markup Languages
   ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -44,7 +46,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 
-</div> </br>
+</div> 
+
+</br>
 
 ## Contributions
 
