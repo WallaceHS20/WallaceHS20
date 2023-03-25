@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=W.Honorato&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=Wallace+Honorato&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wallace+Honorato+Da+Silva+🧑‍💻;I'm+21+years+old+✨;I'm+from+Brasil,+São+José+Dos+Campos+🏡;I+study+Database+at+Fatec+👨‍🎓💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -10,7 +10,11 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceHs20&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117"/>
 </div>
 
- ![Snake animation](https://github.com/WallaceHS20/WallaceHs20/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+
+![Snake animation](https://github.com/WallaceHS20/WallaceHs20/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WallaceHs20&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
@@ -25,7 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/101594950/173710188-800dae77-176a-41fb-aead-3443a3fd2021.gif" vspace="15px" hspace="15px" border="10px" align="right"/>
 
-## Skills
+## Skills :floppy_disk:
 
 <div style="display: inline_block">
 
@@ -35,8 +39,7 @@
   
 ### Programming Languages
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-  ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
+  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
   
 ### Markup Languages
   ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -83,3 +86,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WallaceHS20}/count.svg" /></p> 
 <br></div>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=footer"/>
