@@ -27,8 +27,6 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/101594950/173710188-800dae77-176a-41fb-aead-3443a3fd2021.gif" vspace="15px" hspace="15px" border="10px" align="right"/>
-
 ## Skills :floppy_disk:
 
 <div style="display: inline_block">
