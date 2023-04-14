@@ -5,10 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WallaceHS20&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WallaceHs20&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=8A2BE2&text_color=ffff&bg_color=0d1117" alt="Wallace github stats"/> 
-  
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceHs20&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117"/>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallaceHS20&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceHS20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> 
 
