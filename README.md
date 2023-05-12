@@ -54,33 +54,17 @@
 
 ## Contributions
 
-<table border="1">
-<thead>
-    <tr>
-        <th>Projetos<width="100"</th>
-        <th>Descrição</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td> <a href="https://github.com/fatec-bd1sem/Otus" target="_blank"><img src="https://user-images.githubusercontent.com/101594950/173720182-1be62bbb-a684-41e7-9d27-28eae7359714.png" width="150" height="100" target="_blank"></a></td> 
-        <td>A "OTUS PROJECT" é uma assistente virtual de voz integrada com interface gráfica e desenvolvida 100% em linguagem Python para programadores que estão iniciando no mundo da programação. </td>
-    </tr>
-    <tr>
-       <td> <a href="https://github.com/B1naryDevs/API" target="_blank"><img src="https://user-images.githubusercontent.com/101594950/195669547-fe8151b8-c115-4ec9-8c4d-6c02185efb98.png" width="150" height="100" target="_blank"></a></td>
-       <td>O +Emprego é um sistema Desktop que tem como objetivo realizar o gerenciamento e acompanhamento de processos seletivos de candidatos para vagas de emprego, sendo capaz também de realizar relatórios e análises de aprovação do setor de recursos humanos.</td>
-    <tr>
-        <td> <a href="https://github.com/WallaceHS20/Bertoti---Engenharia-de-Software" target="_blank"><img src="https://user-images.githubusercontent.com/101594950/227232169-678f1e94-4ae9-4fb4-9682-df8bb31aa4d8.JPG" width="150" height="100" target="_blank"></a></td> 
-        <td>A "Outleet Wallace" é um software que simula um sistema de compra e venda de calçados streetwear desenvolvido em Java, registrando os dados de produtos e
-          vendas em arquivos csv. O objetivo é treinar fundamentos básicos da programação orientado a objeto.</td>
-    </tr>
-          <td> <a href="https://github.com/B1nary-Devs-3-Semestre/DOM-ROCK" target="_blank"><img src="https://user-images.githubusercontent.com/101594950/227241109-f03ec6df-ca4e-4d36-8c09-ed77f57fe240.png" width="150" height="100" target="_blank"></a></td> 
-        <td>Desenvolvimento de uma aplicação web, para gerenciar o histórico de movimentação de produtos (vendas e estoque). Predição feito por IA e a entrada de dados resultante da força de vendas quanto ao planejamento futuro.</td>
-</tbody>
-<tfoot>
-</tfoot>
-</table>
+<div align="center"> 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Landing-page---DRK)](https://github.com/WallaceHS20/Landing-page---DRK) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Graddle)](https://github.com/WallaceHS20/Graddle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1naryDevs&repo=API)](https://github.com/B1naryDevs/API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Bertoti---Engenharia-de-Software)](https://github.com/WallaceHS20/Bertoti---Engenharia-de-Software)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs-3-Semestre&repo=DOM-ROCK)](https://github.com/B1nary-Devs-3-Semestre/DOM-ROCK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Api-Flask)](https://github.com/WallaceHS20/Api-Flask)
+
+</div> 
+ 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WallaceHS20}/count.svg" /></p> 
