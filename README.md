@@ -4,19 +4,18 @@
 
 <div align="center">  
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WallaceHS20&show_icons=true&theme=radical) 
- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WallaceHS20&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-
-<div align="center"> 
-
-![Snake animation](https://github.com/WallaceHS20/WallaceHs20/blob/output/github-contribution-grid-snake.svg)
- 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WallaceHS20&theme=radical&mode=weekly"/>
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=WallaceHS20&show_icons=true&theme=radical&layout=compact" />
 </div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceHS20&bg_color=0b0a0a&color=856083&line=7d406c&point=a65959&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WallaceHs20&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
+ 
 </p>
 
 ## Talk with me :speaking_head:
@@ -28,21 +27,34 @@
 
 ## Skills :floppy_disk:
 
+### Tools:
+
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![NODE](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)
+
 <div style="display: inline_block">
 
 ### Database
-  ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-  ![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
 ### Programming Languages
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
   
 ### Markup Languages
-  ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
+![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+
+
+### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 
@@ -56,10 +68,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Landing-page---DRK)](https://github.com/WallaceHS20/Landing-page---DRK) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Graddle)](https://github.com/WallaceHS20/Graddle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1naryDevs&repo=API)](https://github.com/B1naryDevs/API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Bertoti---Engenharia-de-Software)](https://github.com/WallaceHS20/Bertoti---Engenharia-de-Software)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs-3-Semestre&repo=DOM-ROCK)](https://github.com/B1nary-Devs-3-Semestre/DOM-ROCK)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Api-Flask)](https://github.com/WallaceHS20/Api-Flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=JAIA-FRONT)](https://github.com/B1nary-Devs/JAIA-FRONT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=DOM-ROCK)](https://github.com/WallaceHS20/Bertoti---Engenharia-de-Software)
 
 </div> 
  
