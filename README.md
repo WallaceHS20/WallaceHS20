@@ -69,7 +69,7 @@
 
 <div align="center"> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=PRIMEFLIX)](https://github.com/WallaceHS20/PRIMEFLIX) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=PRIMEFLIX-REACT)](https://github.com/WallaceHS20/PRIMEFLIX) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=batalha-naval)](https://github.com/WallaceHS20/batalha-naval)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Vue-Prova)](https://github.com/WallaceHS20/Vue-Prova) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=CURSO-REACTJS)](https://github.com/WallaceHS20/CURSO-REACTJS)
