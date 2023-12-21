@@ -37,11 +37,13 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/9bd8b47d-9453-4daf-a75d-a50e291982ef" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
   
@@ -50,13 +52,14 @@
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase)
 
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 
 </div> 
 
@@ -66,6 +69,10 @@
 
 <div align="center"> 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=PRIMEFLIX)](https://github.com/WallaceHS20/PRIMEFLIX) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=batalha-naval)](https://github.com/WallaceHS20/batalha-naval)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Vue-Prova)](https://github.com/WallaceHS20/Vue-Prova) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=CURSO-REACTJS)](https://github.com/WallaceHS20/CURSO-REACTJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Landing-page---DRK)](https://github.com/WallaceHS20/Landing-page---DRK) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Graddle)](https://github.com/WallaceHS20/Graddle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=JAIA-FRONT)](https://github.com/B1nary-Devs/JAIA-FRONT)
