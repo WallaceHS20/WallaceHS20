@@ -76,7 +76,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Landing-page---DRK)](https://github.com/WallaceHS20/Landing-page---DRK) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Graddle)](https://github.com/WallaceHS20/Graddle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=JAIA-FRONT)](https://github.com/B1nary-Devs/JAIA-FRONT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=DOM-ROCK)](https://github.com/WallaceHS20/Bertoti---Engenharia-de-Software)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=DOM-ROCK)](https://github.com/B1nary-Devs/DOM-ROCK)
 
 </div> 
  
