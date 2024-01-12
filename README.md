@@ -5,11 +5,12 @@
 <div align="center">  
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WallaceHS20&theme=radical&mode=weekly"/>
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=WallaceHS20&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 <br>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceHS20&bg_color=0b0a0a&color=856083&line=7d406c&point=a65959&area=true&hide_border=true)
 (https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
