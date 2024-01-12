@@ -10,8 +10,7 @@
 </div>
 
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceHS20&bg_color=0b0a0a&color=856083&line=7d406c&point=a65959&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WallaceHs20&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
