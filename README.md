@@ -32,7 +32,7 @@
 
 <br>
 
-## Contributions
+## Contributions :desktop_computer:
 
 <br>
 
