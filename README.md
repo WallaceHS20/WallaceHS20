@@ -1,23 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=Wallace+Honorato&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
+![HI! Eu sou Wallace (1)](https://github.com/WallaceHS20/WallaceHS20/assets/101594950/3fef9885-ed06-42b7-8d04-f916af4c9bac)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wallace+Honorato+Da+Silva+🧑‍💻;I'm+21+years+old+✨;I'm+from+Brasil,+São+José+Dos+Campos+🏡;I+study+Database+at+Fatec+👨‍🎓💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=WallaceHS20&show_icons=true&theme=radical&layout=compact" />
-</div>
-
-<br>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceHS20&bg_color=0b0a0a&color=856083&line=7d406c&point=a65959&area=true&hide_border=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WallaceHs20&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
- 
-</p>
-
-## Talk with me :speaking_head:
+## Contact me :speaking_head:
   <a href="https://www.instagram.com/wallace.honorato.98/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117)&nbsp;</a>
   <a href = "mailto:wallacehonorato67@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)&nbsp;</a>
   <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)&nbsp;</a> 
@@ -26,56 +11,314 @@
 
 ## Skills :floppy_disk:
 
-### Tools:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/57054e4c-576c-46ad-9fc8-bffabaa6c286">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/b17f8f57-1407-4346-a773-cb30baf964ae">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/cafdf872-ad73-4107-8041-91f9563f876c">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/8fa180d5-d73b-444a-a4b1-714e3ce42985">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/2d704441-0b2b-4863-a6b0-b0bd15089c20">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/0c05c2c2-b554-4b0d-bd6c-8da46dedaecc">
+  <img align="center" alt="Rafa-Csharp" height="30" width="60" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/168837ff-4111-4291-a384-22a7529dfae0">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/cbc41b0d-30aa-4107-bc4e-db23688792a6">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/5ba404e5-d427-4003-99a1-129f7152cbcb">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/3a69a9ed-4fe4-4755-b67e-05e554f9d4ef">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/bdebfa94-ae7d-4ff0-83d9-1a72848d5db2">
+</div>
 
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![NODE](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)
-
-<div style="display: inline_block">
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-<img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/9bd8b47d-9453-4daf-a75d-a50e291982ef" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=jar&labelColor=0D1117)&nbsp;<br>
-  
-### Markup Languages
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-
-![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase)
-
-### Frameworks:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-
-</div> 
-
-</br>
+<br>
 
 ## Contributions
 
+<br>
+
+<div align="center">
+
+<details>
+
+<summary>SEE MY PROJECTS :computer: </summary>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">TICKETS</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/TICKETS' target="_blank">
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/4c69dac1-1ed9-4a59-90c1-ac2184926b7c"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/TICKETS" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7150286665960390656/" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+          <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+          <img
+            src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+        </p>
+        <p>
+          Este projeto, em particular, simula um sistema de chamados, permitindo-me aprimorar minhas habilidades
+          práticas
+          com gerenciamento de estado do Context API e explorar a interação com o Firebase para operações de banco de
+          dados NoSQL.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">BULÁRIO</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/BUL-RIO' target="_blank">
+          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/41f9112d-109b-4e10-8681-78a28abf2ffd"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/BUL-RIO" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7187454223381381120/" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+          <img
+            src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+        </p>
+        <p>
+          Solução desenvolvida para o desafio em desenvolver uma aplicação em React de um bulário eletrônico, que terá
+          como finalidade apresentar e consultar bulas de medicamentos.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">HMZ</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/TESTE-HMZ' target="_blank">
+          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/6c4f93d1-1c84-4eb6-8ea0-cf0b742ecf95"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/TESTE-HMZ" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143399568875982848/" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+          <img
+            src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+        </p>
+        <p>
+          Solução desenvolvida para o desafio em desenvolver uma aplicação em React de CRUD de usuários.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">PRIMEFLIX</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/PRIMEFLIX-REACT' target="_blank">
+          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/abc98254-3c89-46e1-8bb2-81baeea08e50"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/PRIMEFLIX-REACT" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143399568875982848/" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+          <img
+            src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+        </p>
+        <p>
+          Recentemente iniciei meus estudos em ReactJS e hoje finalizei meu primeiro app. O projeto foi uma imersão
+          profunda nos conceitos fundamentais de ReactJS, incluindo react hooks, ciclos de vida, além de práticas
+          avançadas como o consumo de APIs e gerenciamento de requisições. O PrimeFlix é inspirado nos sistemas de
+          streaming líderes de mercado, refletindo tanto a funcionalidade quanto a estética dessas plataformas.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">NIKE STREET</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/TAILWINDCSS_NIKE' target="_blank">
+          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/52676d1b-8f25-4849-9f31-c1bbee795558"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/TAILWINDCSS_NIKE" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7187454223381381120/" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+          <img
+            src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        </p>
+        <p>
+          Desenvolvimento de um card utilizando TailwindCSS
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">LOGIN TWC</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/TAILWIND_LOGIN' target="_blank">
+          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/94b91285-4d92-4b11-b315-112321761c5c"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/TAILWIND_LOGIN" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7150286665960390656/" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+          <img
+            src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        </p>
+        <p>
+          Desenvolvimento de uma tela de login utilizando TailwindCSS
+        </p>
+      </div>
+    </td>
+  </tr>
+<tr>
+    <td width="50%">
+      <h3 align="center">LANDING PAGE DK</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/Landing-page---DRK' target="_blank">
+          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/5b26eeb6-4bb4-4d67-ad94-95c97adc4163"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/Landing-page---DRK" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/posts/wallace-honorato-b15a3b1a2_ol%C3%A1-rede-espero-que-estejam-todos-bem-activity-7056099103276998656-zUKQ/?utm_source=share&utm_medium=member_desktop" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+         <img
+            src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+          <img
+            src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        </p>
+        </p>
+        <p>
+          Desenvolvimento de uma tela de login utilizando TailwindCSS
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">BINARY INSPEC</h3>
+      <div align="center">
+        <a href='https://github.com/B1nary-Devs/JAIA-FRONT' target="_blank">
+          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/bbf95359-b834-4e3e-9ca5-9cfd16270063"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/B1nary-Devs/JAIA-FRONT" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/posts/wallace-honorato-b15a3b1a2_fatec-activity-7124124638636351488-OP6c/?utm_source=share&utm_medium=member_desktop" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+          <img
+            src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        </p>
+        <p>
+          O desafio consiste em desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+</sumary>
+</details>
+
+</br>
+
+## Stats :bar_chart:
+
 <div align="center"> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=PRIMEFLIX-REACT)](https://github.com/WallaceHS20/PRIMEFLIX) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=batalha-naval)](https://github.com/WallaceHS20/batalha-naval)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Vue-Prova)](https://github.com/WallaceHS20/Vue-Prova) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=CURSO-REACTJS)](https://github.com/WallaceHS20/CURSO-REACTJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Landing-page---DRK)](https://github.com/WallaceHS20/Landing-page---DRK) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WallaceHS20&repo=Graddle)](https://github.com/WallaceHS20/Graddle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=JAIA-FRONT)](https://github.com/B1nary-Devs/JAIA-FRONT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B1nary-Devs&repo=DOM-ROCK)](https://github.com/B1nary-Devs/DOM-ROCK)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceHS20&bg_color=0b0a0a&color=856083&line=7d406c&point=a65959&area=true&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WallaceHS20&theme=dark)](https://git.io/streak-stats)
+
+<p display="flex" align="center">
+  <img widht=100px src="https://github-profile-trophy.vercel.app/?username=WallaceHs20&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
+</p>
+
+<img margin-left=5px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=WallaceHS20&show_icons=true&theme=radical&layout=compact" />
+
 
 </div> 
  
@@ -85,3 +328,7 @@
 <br></div>  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=footer"/>
+
+<div  align="center" style="margin-bottom:100px">
+
+</div>
