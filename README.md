@@ -97,7 +97,7 @@
       <h3 align="center">BULÁRIO</h3>
       <div align="center">
         <a href='https://github.com/WallaceHS20/BUL-RIO' target="_blank">
-          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/41f9112d-109b-4e10-8681-78a28abf2ffd"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/fa61cb86-ec9d-497e-b7fe-3d839d126c98"
             alt="project 1" height="100%" />
         </a>
         <br>
