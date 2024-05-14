@@ -13,23 +13,31 @@
 ## Skills :floppy_disk:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/57054e4c-576c-46ad-9fc8-bffabaa6c286">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/b17f8f57-1407-4346-a773-cb30baf964ae">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/cafdf872-ad73-4107-8041-91f9563f876c">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/8fa180d5-d73b-444a-a4b1-714e3ce42985">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/2d704441-0b2b-4863-a6b0-b0bd15089c20">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/0c05c2c2-b554-4b0d-bd6c-8da46dedaecc">
-  <img align="center" alt="Rafa-Csharp" height="30" width="60" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/168837ff-4111-4291-a384-22a7529dfae0">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/cbc41b0d-30aa-4107-bc4e-db23688792a6">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/5ba404e5-d427-4003-99a1-129f7152cbcb">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/3a69a9ed-4fe4-4755-b67e-05e554f9d4ef">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/bdebfa94-ae7d-4ff0-83d9-1a72848d5db2">
-</div>
+  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+
+  </div>
+  
+  <br>
+
+  <div style="display: inline_block">
+  
+  <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+
+  </div>
 
 <br>
 
