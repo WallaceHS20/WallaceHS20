@@ -129,7 +129,7 @@
       <h3 align="center">HMZ</h3>
       <div align="center">
         <a href='https://github.com/WallaceHS20/TESTE-HMZ' target="_blank">
-          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/6c4f93d1-1c84-4eb6-8ea0-cf0b742ecf95"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/e97bf1e4-e706-41eb-b8ca-f1170920bc04"
             alt="project 1" height="100%" />
         </a>
         <br>
@@ -221,7 +221,7 @@
       <h3 align="center">LOGIN TWC</h3>
       <div align="center">
         <a href='https://github.com/WallaceHS20/TAILWIND_LOGIN' target="_blank">
-          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/94b91285-4d92-4b11-b315-112321761c5c"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/5c051cb7-5c11-4814-b70b-b96d870b5869"
             alt="project 1" height="100%" />
         </a>
         <br>
@@ -280,7 +280,7 @@
       <h3 align="center">BINARY INSPEC</h3>
       <div align="center">
         <a href='https://github.com/B1nary-Devs/JAIA-FRONT' target="_blank">
-          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/b5e661dd-ee88-4cba-8841-df8c9989feb7"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/5ca69f39-bd84-42b5-9158-1dc6d581e30a"
             alt="project 1" height="100%" />
         </a>
         <br>
