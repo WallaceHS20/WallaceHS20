@@ -1,8 +1,9 @@
-![HI! Eu sou Wallace (1)](https://github.com/WallaceHS20/WallaceHS20/assets/101594950/3fef9885-ed06-42b7-8d04-f916af4c9bac)
+![HI! Eu sou Wallace (2)](https://github.com/WallaceHS20/WallaceHS20/assets/101594950/ec070b2a-8877-49fc-ba00-cd44a568221c)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wallace+Honorato+Da+Silva+🧑‍💻;I'm+21+years+old+✨;I'm+from+Brasil,+São+José+Dos+Campos+🏡;I+study+Database+at+Fatec+👨‍🎓💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Contact me :speaking_head:
+
   <a href="https://www.instagram.com/wallace.honorato.98/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117)&nbsp;</a>
   <a href = "mailto:wallacehonorato67@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)&nbsp;</a>
   <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)&nbsp;</a> 
