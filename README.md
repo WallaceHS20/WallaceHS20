@@ -158,7 +158,7 @@
       <h3 align="center">PRIMEFLIX</h3>
       <div align="center">
         <a href='https://github.com/WallaceHS20/PRIMEFLIX-REACT' target="_blank">
-          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/abc98254-3c89-46e1-8bb2-81baeea08e50"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/57af8a40-6379-4dc7-9bbe-3df32231565e"
             alt="project 1" height="100%" />
         </a>
         <br>
@@ -192,7 +192,7 @@
       <h3 align="center">NIKE STREET</h3>
       <div align="center">
         <a href='https://github.com/WallaceHS20/TAILWINDCSS_NIKE' target="_blank">
-          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/52676d1b-8f25-4849-9f31-c1bbee795558"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/e664f10b-92a8-4df2-a891-56262a099c4c"
             alt="project 1" height="100%" />
         </a>
         <br>
@@ -201,7 +201,7 @@
           <a href="https://github.com/WallaceHS20/TAILWINDCSS_NIKE" target="_blank">
             <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7187454223381381120/" target="_blank">
+          <a href="https://www.linkedin.com/posts/wallace-honorato-b15a3b1a2_ol%C3%A1-espero-que-estejam-todos-bem-gostaria-activity-7151211600299933696-qGQI?utm_source=share&utm_medium=member_desktop" target="_blank">
             <img
               src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
           </a>
@@ -230,10 +230,6 @@
           <a href="https://github.com/WallaceHS20/TAILWIND_LOGIN" target="_blank">
             <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7150286665960390656/" target="_blank">
-            <img
-              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
-          </a>
         </p>
         <p>
           <img
@@ -252,7 +248,7 @@
       <h3 align="center">LANDING PAGE DK</h3>
       <div align="center">
         <a href='https://github.com/WallaceHS20/Landing-page---DRK' target="_blank">
-          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/5b26eeb6-4bb4-4d67-ad94-95c97adc4163"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/ad36357d-2054-4ad4-a4c5-3662b69f8964"
             alt="project 1" height="100%" />
         </a>
         <br>
@@ -284,7 +280,7 @@
       <h3 align="center">BINARY INSPEC</h3>
       <div align="center">
         <a href='https://github.com/B1nary-Devs/JAIA-FRONT' target="_blank">
-          <img src="https://github.com/WallaceHS20/react-MOD2/assets/101594950/bbf95359-b834-4e3e-9ca5-9cfd16270063"
+          <img src="https://github.com/WallaceHS20/WallaceHS20/assets/101594950/b5e661dd-ee88-4cba-8841-df8c9989feb7"
             alt="project 1" height="100%" />
         </a>
         <br>
