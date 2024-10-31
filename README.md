@@ -1,5 +1,3 @@
-![HI! Eu sou Wallace (2)](https://github.com/WallaceHS20/WallaceHS20/assets/101594950/ec070b2a-8877-49fc-ba00-cd44a568221c)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wallace+Honorato+Da+Silva+🧑‍💻;I'm+21+years+old+✨;I'm+from+Brasil,+São+José+Dos+Campos+🏡;I+study+Database+at+Fatec+👨‍🎓💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Contact me :speaking_head:
@@ -59,6 +57,72 @@
 <br>
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">GIHLASH</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/gilash' target="_blank">
+          <img src="https://github.com/user-attachments/assets/07048e34-898a-428b-9d8d-bebe5d23d348"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/gilash" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/posts/wallace-honorato-b15a3b1a2_boa-tarde-pessoal-tudo-bem-com-voc%C3%AAs-estou-activity-7232430560256659457-qbWu?utm_source=share&utm_medium=member_desktop" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
+          <img
+            src="https://img.shields.io/badge/vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" />
+          <img
+            src="https://img.shields.io/badge/vue_router-%234FC08D.svg?style=for-the-badge&logo=vue-router&logoColor=white" />
+        </p>
+        <p>
+          Site de cílios postiços, criado para apresentar uma coleção de cílios e acessórios da minha irmã com estilo e qualidade. Desenvolvido com Vue e Vuetify usando Vite para otimização e performance, este site oferece uma interface moderna e responsiva.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">NITRO</h3>
+      <div align="center">
+        <a href='https://github.com/WallaceHS20/NITRO' target="_blank">
+          <img src="https://github.com/user-attachments/assets/13b0a29a-4383-43f7-8e7a-8c52dbc2c114"
+            alt="project 1" height="100%" />
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/WallaceHS20/NITRO" target="_blank">
+            <img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.linkedin.com/posts/wallace-honorato-b15a3b1a2_boa-noite-rede-tudo-bem-seguindo-com-activity-7211181660925526016-JBHH?utm_source=share&utm_medium=member_desktop" target="_blank">
+            <img
+              src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
+          </a>
+        </p>
+        <p>
+          <img
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+          <img
+            src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+          <img
+            src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img
+            src="https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white" />
+        </p>
+        <p>
+          Sistema de validação de formulários com react hoock forms e typescript.
+        </p>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">TICKETS</h3>
